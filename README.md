@@ -80,7 +80,7 @@ com.example.pizzarecipes
 
 ---
 
-##👨‍💻 Auteur
+## 👨‍💻 Auteur
 **Nom : SOUKAINA IMAGHRI**
 **Encadré par : M. LACHGAR**
 **Lab Android – PizzaRecipes**
