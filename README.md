@@ -56,15 +56,16 @@ com.example.pizzarecipes
 ## 🖼️ Screenshots
 
 ### 🔴 Splash Screen
-<img width="391" height="797" alt="image" src="https://github.com/user-attachments/assets/97e65456-92ac-4052-ab92-8f6dfaca10d8" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/6807990d-99e0-4390-bc5f-f847097d725c" />
 
 
 ### 📋 Liste des pizzas
-<img width="379" height="791" alt="image" src="https://github.com/user-attachments/assets/f3a231a3-dcc6-4664-a22d-30cd118caf92" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/28fd6fdc-076b-420d-beee-31781ea41c80" />
 
 
 ### 📖 Détail d’une pizza
-<img width="373" height="793" alt="image" src="https://github.com/user-attachments/assets/62c87a4f-58c8-4681-88f9-3d057b4332e3" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/739b6ede-e19c-462c-8b54-916a10a1e710" />
+
 
 
 ---
