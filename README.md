@@ -60,11 +60,11 @@ com.example.pizzarecipes
 
 
 ### 📋 Liste des pizzas
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/28fd6fdc-076b-420d-beee-31781ea41c80" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/575daeb1-74d5-4f1e-8979-b5ee0a9c18b4" />
 
 
 ### 📖 Détail d’une pizza
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/739b6ede-e19c-462c-8b54-916a10a1e710" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/c5385dab-3863-4b54-bb2f-76a208828100" />
 
 
 
